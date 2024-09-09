@@ -1,15 +1,15 @@
 "video.cfg"
 {
 	"Version"		"20"
-	"VendorID"		""			// Put YOUR VendorID here, from you video.txt file!! example ("VendorID"	"0815")
-	"DeviceID"		""			// Put YOUR DeviceID here, from you video.txt file!!
+	"VendorID"		"4098"			// Put YOUR VendorID here, from you video.txt file!! example ("VendorID"	"0815")
+	"DeviceID"		"5708"			// Put YOUR DeviceID here, from you video.txt file!!
 	"setting.cpu_level"		"0"  			// Low CPU load
 	"setting.mem_level"		"0"  			// Low memory usage
 	"setting.gpu_mem_level"		"0"  			// low GPU memory usage for better performance
 	"setting.gpu_level"		"0"  			// low GPU load
 	"setting.knowndevice"		"0"
-	"setting.defaultres"		"1920"
-	"setting.defaultresheight"		"1080"
+	"setting.defaultres"		"1024"
+	"setting.defaultresheight"		"768"
 	"setting.refreshrate_numerator"		"360"				// refresh rate
 	"setting.refreshrate_denominator"		"1"
 	"setting.fullscreen"		"1"
